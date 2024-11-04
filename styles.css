@@ -1,0 +1,42 @@
+body {
+    font-family: 'Garamond', serif;
+}
+
+#title, 
+#main > p {
+    text-align: center;
+}
+
+#img-div {
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 400px; 
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+#tribute-info {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#tribute-info ul {
+    text-align: left;
+    list-style: none;
+    padding-left: 0;
+}
+
+#tribute-info li {
+    margin-bottom: 8px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
